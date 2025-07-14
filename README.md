@@ -1,4 +1,4 @@
-# crypto-project
+# FlashToken-TRC20
 
 
 | Component        | Description                              |
